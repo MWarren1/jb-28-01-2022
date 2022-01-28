@@ -83,3 +83,13 @@ They are lucky to have you on board!
 – Eugene
 
 ---
+
+Thank you so much Jay for all your help to the integration team.
+
+We truly enjoyed working with you and appreciate you were always available to help us. We wish you much joy, happiness and all the success in everything you do!
+
+All the best!
+
+– Dayana
+
+---

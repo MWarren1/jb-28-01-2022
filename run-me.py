@@ -18,6 +18,8 @@ messages = {
     "Simon": "Good luck in the new job and stay in touch! We'll see you for a beer in Rochester soon. All the best.",
     "Mantas": "Without new challenges, one stops to grow. Enjoy your new job!",
     "Eugene":"Jay,\nthanks for help and support, especially in the start!\nGood luck at your new place!\nThey are lucky to have you on board!",
+    "Dayana":"Thank you so much Jay for all your help to the integration team.\n\nWe truly enjoyed working with you and appreciate you were always available to help us. We wish you much joy, happiness and all the success in everything you do!\n\nAll the best!",
+    "": "It's dangerous to go alone! Take this:\n\n       /|________________\nO|===|* >________________>\n       \|",
 }
 
 janky = "yes"
@@ -30,10 +32,11 @@ while janky == "yes":
     option, index = pick(options, title)
     
     if option != "Exit":
-        print("\n" * 10)
+        print("\n" * 5, "#" * 100, "\n" * 2)
         print(messages[option])
-        print("     ",option, sep="- ")
-        print("\n" * 3)
+        if option != "":
+            print("     ",option, sep="- ")
+        print("\n" * 2, "#" * 100, "\n" * 2)
 
         input("Press Enter to continue...")
     else:
