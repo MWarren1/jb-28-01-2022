@@ -70,3 +70,13 @@ Good luck in the new job and stay in touch! We'll see you for a beer in Rocheste
 Without new challenges, one stops to grow. Enjoy your new job!
 
 – Mantas
+
+---
+
+Jay,
+thanks for help and support, especially in the start!
+Good luck at your new place!
+They are lucky to have you on board!
+– Eugene
+
+---
