@@ -1,2 +1,1 @@
-# jb-28-01-2022
-goodbye messages to JB
+# Run run-me.py or if you lazy open message.md
