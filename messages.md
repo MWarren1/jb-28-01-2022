@@ -128,3 +128,11 @@ Take care.
 – Andrew
 
 ---
+
+What a pleasure it has been working with you and managing you. All those long hours, big changes and overnight disasters you have made a massive difference to the company and will be a big loss. Hope all goes well in your new job. We will keep in touch. 
+
+All the best,
+
+– Lee
+
+---

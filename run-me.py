@@ -21,6 +21,7 @@ messages = {
     "Dayana":"Thank you so much Jay for all your help to the integration team.\n\nWe truly enjoyed working with you and appreciate you were always available to help us. We wish you much joy, happiness and all the success in everything you do!\n\nAll the best!",
     "Gwenael":"Jay,\nThanks a lot for your help and support those last xx months. Much appreciated.\nAll the best for the future!",
     "Andrew": "It has been a pleasure working with you Jay for the many years here at Hyde. All the best in your new role and for the future. \nTake care.",
+    "Lee": "Jay,\nWhat a pleasure it has been working with you and managing you. All those long hours, big changes and overnight disasters you have made a massive difference to the company and will be a big loss. Hope all goes well in your new job. We will keep in touch. \nAll the best.",
     "": "It's dangerous to go alone! Take this:\n\n       /|________________\nO|===|* >________________>\n       \|",
 }
 
