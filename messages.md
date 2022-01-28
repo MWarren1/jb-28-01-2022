@@ -93,3 +93,10 @@ All the best!
 – Dayana
 
 ---
+
+Jay,
+Thanks a lot for your help and support those last xx months. Much appreciated.
+All the best for the future!
+– Gwenael
+
+---
