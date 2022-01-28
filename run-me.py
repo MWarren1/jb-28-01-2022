@@ -20,6 +20,7 @@ messages = {
     "Eugene":"Jay,\nthanks for help and support, especially in the start!\nGood luck at your new place!\nThey are lucky to have you on board!",
     "Dayana":"Thank you so much Jay for all your help to the integration team.\n\nWe truly enjoyed working with you and appreciate you were always available to help us. We wish you much joy, happiness and all the success in everything you do!\n\nAll the best!",
     "Gwenael":"Jay,\nThanks a lot for your help and support those last xx months. Much appreciated.\nAll the best for the future!",
+    "Andrew": "It has been a pleasure working with you Jay for the many years here at Hyde. All the best in your new role and for the future. \nTake care.",
     "": "It's dangerous to go alone! Take this:\n\n       /|________________\nO|===|* >________________>\n       \|",
 }
 
