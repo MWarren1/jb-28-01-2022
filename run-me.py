@@ -16,6 +16,7 @@ messages = {
     "Stephan": "Thanks a lot for your hard work and passion. I'm sure and hope we will have another opportunity to work together on new technologies. Good luck.",
     "Scott": "Jay, it’s truly been a pleasure working with you these past few years. Your patience and ability to coach technical skill has really made a difference to my time at Hyde and a combination of which the team will not be able to replace.\nPlease don’t be a stranger and good luck with the new adventure, I am sure you'll smash it.",
     "Simon": "Good luck in the new job and stay in touch! We'll see you for a beer in Rochester soon. All the best.",
+    "Mantas": "Without new challenges, one stops to grow. Enjoy your new job!",
 }
 
 janky = "yes"

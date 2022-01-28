@@ -66,3 +66,7 @@ Good luck in the new job and stay in touch! We'll see you for a beer in Rocheste
 – Simon
 
 ---
+
+Without new challenges, one stops to grow. Enjoy your new job!
+
+– Mantas
