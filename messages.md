@@ -39,6 +39,7 @@ Sara x
 
 ---
 Thanks for all the support and guidance over the years, good luck on your new venture. 
+
 – Mohammed A
 
 ---
@@ -77,6 +78,7 @@ Jay,
 thanks for help and support, especially in the start!
 Good luck at your new place!
 They are lucky to have you on board!
+
 – Eugene
 
 ---

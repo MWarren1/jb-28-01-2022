@@ -1,1 +1,1 @@
-# Run run-me.py or if your lazy open message.md
+# Run run-me.py or you dont have python open message.md
