@@ -1,6 +1,7 @@
 ---
 
 Hi Jay,
+
 It’s sad to see you go but i guess you need to do what’s best for you. Thank you for all the support you have given throughout my Hyde journey. Without you and Tiz I would not be in the position I’m in. All the best and good luck. 
 
 – Alomski
@@ -10,6 +11,12 @@ It’s sad to see you go but i guess you need to do what’s best for you. Thank
 Thanks for your help over the years, good luck in the new job 
 
 – Paresh
+
+---
+
+Its been great working with you and i have learnt alot, But good luck in bigger and better things :)
+
+– Matt
 
 ---
 
@@ -33,7 +40,9 @@ Thanks for all your help over the years Jay, good luck with your new job
 ---
 
 Dear Jay,
+
 Wishing you the very best of luck, not that you need it. You’ll be missed round here – who am I going to talk to now?!
+
 Keep in touch,
 
 Sara x
@@ -46,7 +55,10 @@ Thanks for all the support and guidance over the years, good luck on your new ve
 ---
 
 Good Luck in your new role Jay, and thanks for all your help and support over the years, it has been great working with you, 
-best wishes, Carole
+
+best wishes, 
+
+Carole
 
 ---
 
@@ -56,7 +68,9 @@ Thanks a lot for your hard work and passion. I'm sure and hope we will have anot
 
 ---
 
-Jay, it’s truly been a pleasure working with you these past few years. Your patience and ability to coach technical skill has really made a difference to my time at Hyde and a combination of which the team will not be able to replace.
+Jay, 
+
+it’s truly been a pleasure working with you these past few years. Your patience and ability to coach technical skill has really made a difference to my time at Hyde and a combination of which the team will not be able to replace.
 Please don’t be a stranger and good luck with the new adventure, I am sure you'll smash it. 
 
 – Scott
@@ -76,8 +90,11 @@ Without new challenges, one stops to grow. Enjoy your new job!
 ---
 
 Jay,
+
 thanks for help and support, especially in the start!
+
 Good luck at your new place!
+
 They are lucky to have you on board!
 
 – Eugene
@@ -95,8 +112,11 @@ All the best!
 ---
 
 Jay,
+
 Thanks a lot for your help and support those last xx months. Much appreciated.
+
 All the best for the future!
+
 – Gwenael
 
 ---

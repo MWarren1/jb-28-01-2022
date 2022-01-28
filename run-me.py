@@ -4,10 +4,10 @@
 from pick import pick
 
 messages = {
-    "Matt": "Its been great working with you and i have learnt alot, But good luck in bigger and better things :)",
     "Alomski": "It’s sad to see you go but i guess you need to do what’s best for you. Thank you for all the support you have given throughout my Hyde journey. Without you and Tiz I would not be in the position I’m in. All the best and good luck.",
     "Paresh": "Thanks for your help over the years, good luck in the new job",
     "Adrian": "Congratulations on your new job. It’s been great working with you, all the best",
+    "Matt": "Its been great working with you and i have learnt alot, But good luck in bigger and better things :)",
     "Nick": "Great working with you and thanks for all the knowledge sharing over the years. May your feathers always be bright, and your beard grow ever longer",
     "Sam R": "Thanks for all your help over the years Jay, good luck with your new job",
     "Sara": "Dear Jay,\nWishing you the very best of luck, not that you need it. You’ll be missed round here – who am I going to talk to now?!\nKeep in touch,",
