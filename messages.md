@@ -136,3 +136,27 @@ All the best,
 – Lee
 
 ---
+
+I Hope the cloud is cloudier on the other side! Thanks for all your hard work getting things into a good state at Hyde. It's been great working with you.
+
+ – Alistair
+
+ ---
+
+Its been an absolute pleasure working for you Jay. All the best for the new role.
+
+ – Aaron
+
+ ---
+
+All the best Jay - you'll be missed
+
+  – Barry M
+
+ ---
+
+All the best with the future Jay. Thanks for all your help. Keep in touch :)
+
+   – Aswad
+
+ ---

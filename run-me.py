@@ -22,6 +22,10 @@ messages = {
     "Gwenael":"Jay,\nThanks a lot for your help and support those last xx months. Much appreciated.\nAll the best for the future!",
     "Andrew": "It has been a pleasure working with you Jay for the many years here at Hyde. All the best in your new role and for the future. \nTake care.",
     "Lee": "Jay,\nWhat a pleasure it has been working with you and managing you. All those long hours, big changes and overnight disasters you have made a massive difference to the company and will be a big loss. Hope all goes well in your new job. We will keep in touch. \nAll the best.",
+    "Alistair": "I Hope the cloud is cloudier on the other side! Thanks for all your hard work getting things into a good state at Hyde. It's been great working with you.",
+    "Aaron": "Its been an absolute pleasure working for you Jay. All the best for the new role.",
+    "Barry M": "All the best Jay - you'll be missed",
+    "Aswad": "All the best with the future Jay. Thanks for all your help. Keep in touch :)",
     "": "It's dangerous to go alone! Take this:\n\n       /|________________\nO|===|* >________________>\n       \|",
 }
 
